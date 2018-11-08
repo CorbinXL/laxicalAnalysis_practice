@@ -1,0 +1,17 @@
+郑殿新-2017221103005
+
+line 01: (01, 0) SYMBOL: void
+line 01: (01, 1) SYMBOL: BInsertSort
+line 01: (01, 2) SYMBOL: a
+line 01: (01, 3) SYMBOL: n
+line 03: (01, 4) SYMBOL: i
+line 04: (01, 5) SYMBOL: low
+line 04: (01, 6) SYMBOL: high
+line 06: (01, 7) SYMBOL: x
+line 09: (01, 8) SYMBOL: m
+line 13: (01, 9) SYMBOL: j
+line 21: (01, 10) SYMBOL: main
+line 24: (01, 11) SYMBOL: cin
+line 25: (01, 12) SYMBOL: ew
+line 30: (01, 13) SYMBOL: cout
+line 31: (01, 14) SYMBOL: delete
