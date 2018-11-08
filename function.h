@@ -6,12 +6,6 @@
 //  Copyright © 2018年 抠鼻小新. All rights reserved.
 //
 
-/*
- * word-analysis-2018.h
- *
- *  Created on: 2018年10月12日
- *      Author: Fuhu
- */
 
 /*****助记符的定义*****/
 #define T_SYMBOL 1
