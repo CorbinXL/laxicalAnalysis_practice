@@ -6,6 +6,12 @@
 //  Copyright © 2018年 抠鼻小新. All rights reserved.
 //
 
+/*
+ * digit-2018.c
+ *
+ *  Created on: 20181012
+ *      Author: fuhu deng
+ */
 
 
 #include <stdio.h>
